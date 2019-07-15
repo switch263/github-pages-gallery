@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "theme-style": "./custom.css",
-  "footer": "Copyright Text",
+  "footer": "Copyright me. I took these photos. They're mine.",
   "usage-stats": false
 }
